@@ -7,16 +7,11 @@ Full-Stack Devloper
 I am currently pursuing my undergraduate studies at Bangkok University, majoring in fields related to computer science and technology. I am a passionate and self-driven Full-Stack Developer with hands-on experience in both frontend and backend development. I specialize in building web applications using modern technologies and frameworks such as:
 
 💡 Tech Stack & Skills
-
-Frontend: React.js, Next.js, Tailwind CSS, Bootstrap 5
-
-Backend: Node.js (Express.js), PHP (Vanilla PHP & PDO)
-
-Database: MySQL, Prisma ORM
-
-Other Tools: GitHub, Postman, VS Code
-
-API: RESTful API, JWT Authentication, Secure API handling
+* Frontend: React.js, Next.js, Tailwind CSS, Bootstrap 5
+* Backend: Node.js (Express.js), PHP (Vanilla PHP & PDO)
+* Database: MySQL, Prisma ORM
+* Other Tools: GitHub, Postman, VS Code
+* API: RESTful API, JWT Authentication, Secure API handling
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [portfolio-smoky-three-26.vercel.app](http://portfolio-smoky-three-26.vercel.app)
