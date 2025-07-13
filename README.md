@@ -13,6 +13,7 @@ I am currently pursuing my undergraduate studies at Bangkok University, majoring
 * Other Tools: GitHub, Postman, VS Code
 * API: RESTful API, JWT Authentication, Secure API handling
 
+### Info
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [portfolio-smoky-three-26.vercel.app](http://portfolio-smoky-three-26.vercel.app)
 * ✉️  You can contact me at [mink69875@gmail.com](mailto: mink69875@gmail.com)
