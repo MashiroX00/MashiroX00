@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rapeephat Wannasamran
 =============================================================================================================================================
 
-Full-Stack Devloper
+Full-Stack Developer
 -------------------
 
 I am currently pursuing my undergraduate studies at Bangkok University, majoring in fields related to computer science and technology. I am a passionate and self-driven Full-Stack Developer with hands-on experience in both frontend and backend development. I specialize in building web applications using modern technologies and frameworks such as:
