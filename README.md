@@ -15,7 +15,7 @@ I am currently pursuing my undergraduate studies at Bangkok University, majoring
 
 ### Info
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [portfolio-smoky-three-26.vercel.app](http://portfolio-smoky-three-26.vercel.app)
+* 🖥️  See my portfolio at [https://cordeliaportfolio.vercel.app/](https://cordeliaportfolio.vercel.app/)
 * ✉️  You can contact me at [mink69875@gmail.com](mailto: mink69875@gmail.com)
 * 🧠  I'm learning TypeScript, Python, Mechine learning
 
